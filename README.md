@@ -58,6 +58,7 @@ public class NewBehaviourScript : MonoBehaviour
 }
 ```
 ## Output:
+![hari arvr ex1](https://github.com/hariprasath5106/Rotating-the-Gaming-Object/assets/111515488/80707767-d7fb-4146-91b1-34c44abe7bba)
 
 
 ## Result:
